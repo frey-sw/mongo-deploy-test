@@ -1,0 +1,32 @@
+{
+    "properties": {
+        "R_Activo": {
+            "bsonType": "string"
+        },
+        "R_CodigoCliente": {
+            "bsonType": "string"
+        },
+        "R_CodigoSupervisor": {
+            "bsonType": "string"
+        },
+        "R_CodigodeFrente": {
+            "bsonType": "string"
+        },
+        "R_Empresa": {
+            "bsonType": "string"
+        },
+        "R_NombreCliente": {
+            "bsonType": "string"
+        },
+        "R_NombreFrente": {
+            "bsonType": "string"
+        },
+        "R_NombreSupervisor": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "frente"
+}

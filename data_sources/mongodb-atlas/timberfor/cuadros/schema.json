@@ -1,0 +1,23 @@
+{
+    "properties": {
+        "R_Activo": {
+            "bsonType": "string"
+        },
+        "R_CodigodeFrente": {
+            "bsonType": "string"
+        },
+        "R_CodigodelCuadro": {
+            "bsonType": "string"
+        },
+        "R_NombreFrente": {
+            "bsonType": "string"
+        },
+        "R_NombredelCuadro": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "cuadro"
+}

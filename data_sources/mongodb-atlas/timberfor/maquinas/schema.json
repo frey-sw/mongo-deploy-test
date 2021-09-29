@@ -1,0 +1,26 @@
+{
+    "properties": {
+        "R_Activo": {
+            "bsonType": "string"
+        },
+        "R_CodigoClasedeMaquina": {
+            "bsonType": "string"
+        },
+        "R_CodigodeMaquina": {
+            "bsonType": "string"
+        },
+        "R_Empresa": {
+            "bsonType": "string"
+        },
+        "R_NombreClasedeMaquina": {
+            "bsonType": "string"
+        },
+        "R_NombreMaquina": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "maquina"
+}

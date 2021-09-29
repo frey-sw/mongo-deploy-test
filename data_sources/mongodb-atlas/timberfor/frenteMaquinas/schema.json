@@ -1,0 +1,26 @@
+{
+    "properties": {
+        "R_CodigoMaquina": {
+            "bsonType": "string"
+        },
+        "R_CodigodeFrente": {
+            "bsonType": "string"
+        },
+        "R_Empresa": {
+            "bsonType": "string"
+        },
+        "R_Fechadesde": {
+            "bsonType": "string"
+        },
+        "R_NombreFrente": {
+            "bsonType": "string"
+        },
+        "R_NombreMaquina": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "frenteMaquina"
+}

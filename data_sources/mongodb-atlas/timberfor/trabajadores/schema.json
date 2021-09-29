@@ -1,0 +1,23 @@
+{
+    "properties": {
+        "R_CI": {
+            "bsonType": "string"
+        },
+        "R_CodigoEmpresa_1": {
+            "bsonType": "string"
+        },
+        "R_CodigodeTrabajador": {
+            "bsonType": "string"
+        },
+        "R_EstadodelTrabajador": {
+            "bsonType": "string"
+        },
+        "R_NombreCompleto": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "trabajadore"
+}
